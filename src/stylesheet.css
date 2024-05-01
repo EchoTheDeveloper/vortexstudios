@@ -12,6 +12,15 @@ body{
     color: white;
 }
 
+.menu-button::selection{
+    border-style: groove;
+    border-radius: 2px;
+    border-color: black;
+
+    background-color: gray;
+    color: white;
+}
+
 h1{
     color: white;
 }
