@@ -3,13 +3,21 @@ body{
     color: #FAF9F6;
 }
 
-button{
+.menu-button{
     border-style: groove;
     border-radius: 2px;
     border-color: gray;
 
     background-color: darkgray;
     color: black;
+}
+.menu-button:hover{
+    border-style: groove;
+    border-radius: 2px;
+    border-color: black;
+
+    background-color: gray;
+    color: white;
 }
 
 h1{
