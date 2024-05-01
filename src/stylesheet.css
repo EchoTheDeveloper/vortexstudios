@@ -1,1 +1,17 @@
+body{
+    background-color: #151B29;
+    color: #FAF9F6;
+}
 
+button{
+    border-style: groove;
+    border-radius: 2px;
+    border-color: gray;
+
+    background-color: darkgray;
+    color: black;
+}
+
+h1{
+    color: white;
+}
